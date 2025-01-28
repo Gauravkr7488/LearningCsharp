@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8 - Code blocks", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project9 - do-while", "Project9 - do-while\Project9 - do-while.csproj", "{6E19901B-C139-480B-A6F1-5A036900B398}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project10 - dataTypes", "Project10 - dataTypes\Project10 - dataTypes.csproj", "{417F9464-6CF8-490A-9CDF-19D09221A7C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{6E19901B-C139-480B-A6F1-5A036900B398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E19901B-C139-480B-A6F1-5A036900B398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E19901B-C139-480B-A6F1-5A036900B398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417F9464-6CF8-490A-9CDF-19D09221A7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417F9464-6CF8-490A-9CDF-19D09221A7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417F9464-6CF8-490A-9CDF-19D09221A7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417F9464-6CF8-490A-9CDF-19D09221A7C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
