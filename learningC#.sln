@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4", "Project4 - arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5 - foreach", "Project5 - foreach\Project5 - foreach.csproj", "{2743B847-6015-4789-9538-226DD7C59AB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6 - application using foreach and if", "Project6 - application using foreach and if\Project6 - application using foreach and if.csproj", "{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{2743B847-6015-4789-9538-226DD7C59AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2743B847-6015-4789-9538-226DD7C59AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2743B847-6015-4789-9538-226DD7C59AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
