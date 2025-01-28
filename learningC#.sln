@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5 - foreach", "Proje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6 - application using foreach and if", "Project6 - application using foreach and if\Project6 - application using foreach and if.csproj", "{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7 - Ternary Conditional Operator", "Project7 - Ternary Conditional Operator\Project7 - Ternary Conditional Operator.csproj", "{20006EBD-05EE-477E-8832-7841FEAAFAAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C1FFD78-7F75-4F1A-AE68-5F8E9CF4A661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20006EBD-05EE-477E-8832-7841FEAAFAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20006EBD-05EE-477E-8832-7841FEAAFAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20006EBD-05EE-477E-8832-7841FEAAFAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20006EBD-05EE-477E-8832-7841FEAAFAAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
