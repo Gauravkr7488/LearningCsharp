@@ -1,4 +1,5 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -21,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project9 - do-while", "Project9 - do-while\Project9 - do-while.csproj", "{6E19901B-C139-480B-A6F1-5A036900B398}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project10 - dataTypes", "Project10 - dataTypes\Project10 - dataTypes.csproj", "{417F9464-6CF8-490A-9CDF-19D09221A7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project11 - Operations on arrays", "Project11 - Operations on Arrays\Project11 - Operations on arrays.csproj", "{152B688D-5B68-45DA-A41E-4832A5E00B49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -68,6 +71,10 @@ Global
 		{417F9464-6CF8-490A-9CDF-19D09221A7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417F9464-6CF8-490A-9CDF-19D09221A7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417F9464-6CF8-490A-9CDF-19D09221A7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152B688D-5B68-45DA-A41E-4832A5E00B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152B688D-5B68-45DA-A41E-4832A5E00B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152B688D-5B68-45DA-A41E-4832A5E00B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152B688D-5B68-45DA-A41E-4832A5E00B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
