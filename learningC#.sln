@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project12 - Modifying the c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project13 - Creating Methods", "Project13 - Creating Methods\Project13 - Creating Methods.csproj", "{B94BD41F-7112-4877-AF34-945E38947019}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project14 - Debugging", "Project14 - Debugging\Project14 - Debugging.csproj", "{9CAC0ECA-8717-45CE-A509-BD2FDA060E91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B94BD41F-7112-4877-AF34-945E38947019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B94BD41F-7112-4877-AF34-945E38947019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B94BD41F-7112-4877-AF34-945E38947019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAC0ECA-8717-45CE-A509-BD2FDA060E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAC0ECA-8717-45CE-A509-BD2FDA060E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAC0ECA-8717-45CE-A509-BD2FDA060E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAC0ECA-8717-45CE-A509-BD2FDA060E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
