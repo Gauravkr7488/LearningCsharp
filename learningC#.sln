@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project14 - Debugging", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15 - Working with methods", "Project15 - Working with methods\Project15 - Working with methods.csproj", "{03A74DF1-2CB5-484A-AE8D-3CE9C6CD69F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16 - Working Class and Object", "Project16 - Working Class and Object\Project16 - Working Class and Object.csproj", "{4F3E9EED-A31E-46A9-BE80-359EC872B333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{03A74DF1-2CB5-484A-AE8D-3CE9C6CD69F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A74DF1-2CB5-484A-AE8D-3CE9C6CD69F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A74DF1-2CB5-484A-AE8D-3CE9C6CD69F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3E9EED-A31E-46A9-BE80-359EC872B333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3E9EED-A31E-46A9-BE80-359EC872B333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3E9EED-A31E-46A9-BE80-359EC872B333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3E9EED-A31E-46A9-BE80-359EC872B333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
