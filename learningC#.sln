@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project19 - Polymorphism", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project20 - File IO", "Project20 - File IO\Project20 - File IO.csproj", "{F6D9159C-FD28-4A9A-A877-CA8C6602CBA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project21 - Exceptions", "Project21 - Exceptions\Project21 - Exceptions.csproj", "{3405B44D-3F6F-41CD-85C4-580B40F0A074}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{F6D9159C-FD28-4A9A-A877-CA8C6602CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D9159C-FD28-4A9A-A877-CA8C6602CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D9159C-FD28-4A9A-A877-CA8C6602CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3405B44D-3F6F-41CD-85C4-580B40F0A074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3405B44D-3F6F-41CD-85C4-580B40F0A074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3405B44D-3F6F-41CD-85C4-580B40F0A074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3405B44D-3F6F-41CD-85C4-580B40F0A074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
