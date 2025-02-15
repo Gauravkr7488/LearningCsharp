@@ -1,0 +1,6 @@
+@String_sender_HostAddress = http://localhost:5096
+
+GET {{String_sender_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
