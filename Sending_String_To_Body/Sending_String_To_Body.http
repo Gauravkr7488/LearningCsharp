@@ -1,0 +1,6 @@
+@Sending_String_To_Body_HostAddress = http://localhost:5118
+
+GET {{Sending_String_To_Body_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

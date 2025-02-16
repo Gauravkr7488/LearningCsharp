@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project21 - Exceptions", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{BDB6E47A-06FA-4ECF-B72E-4508F5E83BE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sending_String_To_Body", "Sending_String_To_Body\Sending_String_To_Body.csproj", "{AC3A29C1-E0BB-4F54-87AF-4F919120C16C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{BDB6E47A-06FA-4ECF-B72E-4508F5E83BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB6E47A-06FA-4ECF-B72E-4508F5E83BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB6E47A-06FA-4ECF-B72E-4508F5E83BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3A29C1-E0BB-4F54-87AF-4F919120C16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3A29C1-E0BB-4F54-87AF-4F919120C16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3A29C1-E0BB-4F54-87AF-4F919120C16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3A29C1-E0BB-4F54-87AF-4F919120C16C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
