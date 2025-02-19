@@ -1,5 +1,8 @@
-﻿
+﻿using System;
+using System.Net.Http;
 using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
 
 class Program
 {
@@ -21,13 +24,16 @@ class Program
 
     static async Task SendMessage(HttpClient client, string message)
     {
-        string url = "http://localhost:5119/api/string"; // Enter the url here
+        string url = "http://localhost:3000/api/data"; // Update with actual API URL
 
-        var content = new StringContent($"\"{message}\"", Encoding.UTF8, "application/json");
+        // Create JSON object with the correct structure
+        var messageObject = new { message = message };
+        string json = JsonSerializer.Serialize(messageObject);
+        var content = new StringContent(json, Encoding.UTF8, "application/json");
 
         HttpResponseMessage response = await client.PostAsync(url, content);
 
         string responseText = await response.Content.ReadAsStringAsync();
-        Console.WriteLine($"Response : {responseText}");
+        Console.WriteLine($"Response: {responseText}");
     }
 }
